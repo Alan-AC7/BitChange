@@ -7,6 +7,7 @@ class Steps extends React.Component {
         return(
             
             <>
+            
           <div className="hero h-auto w-full bg-base-200 rounded-lg">
            <div class="max-w-screen-lg mx-auto px-4 sm:px-6 lg:px-8 flex flex-col justify-between">
 
@@ -149,28 +150,7 @@ class Steps extends React.Component {
     </ul>
 </div>
 
-<div class="mt-20">
-    <ul class="md:grid md:grid-cols-3 md:col-gap-10 md:row-gap-10">
 
-        <li class=" bg-gray-100 p-5 pb-10 text-center">
-            <div class="flex flex-col items-center">
-                <div class="flex-shrink-0 relative top-0 -mt-16">
-                    <div
-                        class="flex items-center justify-center h-20 w-20 rounded-full bg-[rgb(242,135,13)] text-white border-4 border-white text-xl font-semibold">
-                        7
-                    </div>
-                </div>
-                <div class="mt-4">
-                    <h4 class="text-lg leading-6 font-semibold text-gray-900">Enjoy using bitcoin</h4>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
-                    Once you have successfully received your change in Bitcoin and set up your wallet, 
-                    you can explore using Bitcoin for various transactions 
-                    </p>
-                </div>
-            </div>
-        </li>
-    </ul>
-</div>
 
 </div>
 </div>
