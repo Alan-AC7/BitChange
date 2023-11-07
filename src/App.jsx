@@ -7,6 +7,7 @@ import Steps from './components/steps';
 import Gallery from './components/gallery';
 import Cubo from './components/cubo';
 import Wallet from './components/wallets';
+import WebView from './components/webview';
 
 function App() {
   return (
@@ -59,7 +60,7 @@ function App() {
 <Cubo></Cubo>
 
 <Gallery></Gallery>
-<div className='p-5'>
+<div className='p-10'>
 <Team>
   
 </Team>
@@ -68,6 +69,25 @@ function App() {
 <Wallet></Wallet>
 <br></br>
 
+
+<div className="hero min-h-screen bg-base-200">
+  <div className="hero-content flex-col lg:flex-row-reverse">
+    <div className="text-center lg:text-left">
+      <h1 className="text-5xl font-bold text-white m-5">You received your change in BTC. Now what?</h1>
+      <p className="py-6 text-white m-5 text-2xl">You can see BTC Map to see whice businesses accept Bitcoin! </p>
+    </div>
+    <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
+      <div className="w-auto h-auto  flex items-center ">
+<WebView source="https://btcmap.org/map#14/13.70136/-89.19408"  className="border-2 border-red-500"
+       />
+    </div>
+    </div>
+  </div>
+</div>
+
+      
+    
+  
 </div>
 <br></br>
       <Footer></Footer>
