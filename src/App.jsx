@@ -4,6 +4,7 @@ import Navbar from './components/navbar';
 import Footer from './components/footer';
 import Team from './components/team';
 import Steps from './components/steps';
+import Gallery from './components/gallery';
 
 function App() {
   return (
@@ -52,15 +53,18 @@ function App() {
   </div>
 </div>
 </div>
-
+<Gallery></Gallery>
 <div className='p-5'>
 <Team>
   
 </Team>
-
+<br></br>
 <Steps></Steps>
-</div>
 
+<br></br>
+
+</div>
+<br></br>
       <Footer></Footer>
     </div>
 
