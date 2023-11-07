@@ -47,6 +47,7 @@ function App() {
       <p className="py-5 text-xl">Boost your business, promote the use of bitcoin and start making the diference today one transaction at a time</p>
       <br></br>
       <button className="btn btn-neutral bg-[rgb(242,135,13)] text-white">Dont know how? Click Here</button>
+      <a href="" target="_blank" rel="noopener noreferrer"> </a>
     </div>
   </div>
 </div>
