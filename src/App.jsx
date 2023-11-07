@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './components/navbar';
 import Footer from './components/footer';
 import Team from './components/team';
+import Steps from './components/steps';
 
 function App() {
   return (
@@ -55,6 +56,8 @@ function App() {
 <Team>
   
 </Team>
+
+<Steps></Steps>
 </div>
 
       <Footer></Footer>
