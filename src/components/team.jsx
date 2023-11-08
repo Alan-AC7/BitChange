@@ -8,7 +8,7 @@ class Team extends React.Component {
             
             <>
             
-            <section class="flex items-center bg-stone-100 xl:h-screen font-poppins dark:bg-gray-800 ">
+            <section class="flex items-center bg-stone-100 xl:h-screen font-poppins dark:bg-gray-800 " id='team'>
         <div class="justify-center flex-1 px-4 py-6 mx-auto max-w-7xl lg:py-4 md:px-6">
             <div class="text-center mb-14">
                 <span

@@ -7,7 +7,7 @@ class Wallet extends React.Component {
             
             <>
 
-            <div class='p-20'>
+            <div class='p-20' >
             <div class="text-center">
     <p class="font-bold mt-4 text-sm leading-7 font-regular">
         WALLETS

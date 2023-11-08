@@ -12,7 +12,7 @@ import WebView from './components/webview';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" id='home'>
       <Navbar></Navbar>
       <div className="hero min-h-screen" style={{backgroundImage: 'url(https://prod.wordpress.usemultiplier.cloud/wp-content/uploads/2023/03/62398ad198b195119954dee1-1920-x-1082-p-1600.webp)'}}>
   <div className="hero-overlay bg-opacity-60"></div>
@@ -20,7 +20,7 @@ function App() {
     <div className="max-w-md">
       <h1 className="mb-5 text-5xl font-bold">BITCHANGE</h1>
       <p className="mb-5"></p>
-      <button className="btn btn-primary">Get Started</button>
+    
     </div>
   </div>
 </div>
@@ -34,7 +34,7 @@ function App() {
     <h1 className="text-5xl font-bold">Receive your change in Bitcoin!</h1>
       <p className="py-5 text-xl">Everytime you pay using fiat, BitChange allows customers to receive their change in bitcoin. So, the next time you buy in a store you have some sats to spend!</p>
       <br></br>
-      <button className="btn btn-neutral bg-[rgb(242,135,13)] text-white">Dont know how? Click Here</button>
+     <a href="#steps"><button className="btn btn-neutral bg-[rgb(242,135,13)] text-white">Dont know how? Click Here</button></a> 
     </div>
   </div>
 </div>
@@ -49,26 +49,37 @@ function App() {
     <img src="https://cdn.images.express.co.uk/img/dynamic/23/750x445/1136210.jpg" className="max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">Wanna start using BitChange?</h1>
+      <br></br>
       <p className="py-5 text-xl">Boost your business, promote the use of bitcoin and start making the diference today one transaction at a time</p>
       <br></br>
-      <button className="btn btn-neutral bg-[rgb(242,135,13)] text-white">Dont know how? Click Here</button>
-      <a href="" target="_blank" rel="noopener noreferrer"> </a>
+      
+
     </div>
   </div>
 </div>
 </div>
 
-<Cubo></Cubo>
+<Why></Why>
+    
+
+
+<div className="flex flex-col w-full border-opacity-50 p-10">
+ 
+  <div className="divider text-3xl text-[rgb(242,135,13)] font-bold" id='steps'>REDEEM PROCESS</div>
+  <br></br>
+  <Steps></Steps>
+<Wallet></Wallet>
+</div>
+
+
+<div className="flex flex-col w-full border-opacity-50 p-10">
+ 
+  <div className="divider text-3xl text-[rgb(242,135,13)] font-bold">WHAT CAN YOU DO AFTER REDEEMING?</div>
+
+</div>
 
 <Gallery></Gallery>
 <div className='p-10'>
-<Team>
-  
-</Team>
-<br></br>
-<Steps></Steps>
-<Wallet></Wallet>
-<br></br>
 
 
 <div className="hero min-h-screen bg-base-200">
@@ -85,12 +96,22 @@ function App() {
     </div>
   </div>
 </div>
+</div>
 
-<Why></Why>
-      
+
+<div className="flex flex-col w-full border-opacity-50 p-10">
+ 
+  <div className="divider text-3xl text-[rgb(242,135,13)] font-bold">ABOUT US</div>
+
+</div>
+<Cubo></Cubo>
+<Team></Team>
+
+
+
     
   
-</div>
+
 <br></br>
       <Footer></Footer>
     </div>
