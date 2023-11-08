@@ -8,7 +8,15 @@ class Wallet extends React.Component {
             <>
 
             <div class='p-20'>
-            
+            <div class="text-center">
+    <p class="font-bold mt-4 text-sm leading-7 font-regular">
+        WALLETS
+    </p>
+    <h3 class="text-3xl sm:text-5xl leading-normal font-extrabold tracking-tight font-bold">
+        Some <span class="text-[rgb(242,135,13)]">Wallets</span> you can use
+    </h3>
+<br></br>
+</div>
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4">
  
  <div class="group cursor-pointer relative">
@@ -66,7 +74,7 @@ class Wallet extends React.Component {
  <h1>Wallet of Satoshi</h1>
  <br></br>
    <img
-     src="https://financialit.net/sites/default/files/ditobanx.png"
+     src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/05/13/550513fe-3f4c-ca27-ab0a-b44c85d59c6c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg"
      alt="Image 1"
      class="w-full h-48 object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
    />
@@ -111,7 +119,7 @@ class Wallet extends React.Component {
  <a href="https://getalby.com/">
  <br></br>
    <img
-     src="https://getalby.com/assets/alby-logo-head-da6c4355b69a3baac3fc306d47741c9394a825e54905ef67c5dd029146b89edf.svg"
+     src="https://satoshistore.io/cdn/shop/files/alby_collection_200x200.png?v=1668331891"
      alt="Image 1"
      class="w-full h-48 object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
    />
