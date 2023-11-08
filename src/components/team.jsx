@@ -180,7 +180,7 @@ class Team extends React.Component {
                             class="inline-block mb-6 text-base font-medium text-blue-500 dark:text-gray-400">Front-end Developer
                         </span>
                         <div class="flex items-center justify-center">
-                            <a class="inline-block mr-5 text-coolGray-300 hover:text-coolGray-400" href="#">
+                            <a class="inline-block mr-5 text-coolGray-300 hover:text-coolGray-400" href="https://github.com/jramos0">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                  class="w-6 h-6 text-gray-800 bi bi-github dark:text-gray-400" viewBox="0 0 16 16">
                                  <path

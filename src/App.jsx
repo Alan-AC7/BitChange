@@ -7,6 +7,7 @@ import Steps from './components/steps';
 import Gallery from './components/gallery';
 import Cubo from './components/cubo';
 import Wallet from './components/wallets';
+import Why from './components/whybtc';
 import WebView from './components/webview';
 
 function App() {
@@ -85,6 +86,7 @@ function App() {
   </div>
 </div>
 
+<Why></Why>
       
     
   

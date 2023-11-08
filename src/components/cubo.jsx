@@ -24,8 +24,8 @@ class Cubo extends React.Component {
                 <div class="h-full py-4 px-6 border border-[rgb(242,135,13)] border-t-0 border-l-0 rounded-br-xl">
                     <h3 class="text-2xl font-bold text-md mb-6">CUBO+</h3>
                     <p class="text-sm">
-                        CUBO+ Educational Progrm is an iniative designed by and for a salvadorans, aimed at trainig the 
-                        upcoming generation of salvadoran programmers. 
+                    CUBO+ Educational Program is an initiative crafted by and for Salvadorans, 
+                    with the goal of training the next generation of Salvadoran programmers. 
                     </p>
                 </div>
             </div>
@@ -33,8 +33,8 @@ class Cubo extends React.Component {
                 <div class="h-full py-4 px-6 border border-[rgb(242,135,13)] border-t-0 border-l-0 rounded-br-xl">
                     <h3 class="text-2xl font-bold text-md mb-6">Preparatory period</h3>
                     <p class="text-sm"> 
-                    The preparatory period, which ran from mid-April to early June, consisted of online sessions
-                    about the role of Bitcoin and its impact on society.
+                    The preparatory phase, spanning from mid-April to early June, 
+                    encompassed online sessions focused on exploring the role of Bitcoin and its influence on society.
 
                     </p>
                 </div>
@@ -44,8 +44,7 @@ class Cubo extends React.Component {
                 <div class="h-full py-4 px-6 border border-[rgb(242,135,13)] border-t-0 border-l-0 rounded-br-xl">
                     <h3 class="text-2xl font-bold text-md mb-6">On-site bootcamp</h3>
                     <p class="text-sm">
-                        The on-site bootcamp took place the first two weeks of July focused on delving deeper into
-                        the LNP/BP technology.
+                    The on-site bootcamp occurred during the initial two weeks of July, concentrating on a more in-depth exploration of the LNP/BP technology.
                     </p>
                 </div>
             </div>
@@ -54,8 +53,8 @@ class Cubo extends React.Component {
                 <div class="h-full py-4 px-6 border border-[rgb(242,135,13)] border-t-0 border-l-0 rounded-br-xl">
                     <h3 class="text-2xl font-bold text-md mb-6">Tuscany bootcamp</h3>
                     <p class="text-sm">
-                        During the first weeks of October the top candidates from the on-site bootcamp had
-                        the opportunity to travel to Europe to participate in the Tuscany Lightning Bootcamp.
+                    In the initial weeks of October, distinguished participants from the on-site bootcamp 
+                    seized the opportunity to journey to Europe and engage in the Tuscany Lightning Bootcamp.
                     </p>
                 </div>
             </div>

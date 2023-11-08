@@ -119,7 +119,7 @@ class Wallet extends React.Component {
  <a href="https://getalby.com/">
  <br></br>
    <img
-     src="https://satoshistore.io/cdn/shop/files/alby_collection_200x200.png?v=1668331891"
+     src="https://getalby.com/assets/logo-3a6b76369b902308fca24e1a1c5c111b072f3edcd64e0f5021761bc72e8c2b29.svg"
      alt="Image 1"
      class="w-full h-48 object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
    />
