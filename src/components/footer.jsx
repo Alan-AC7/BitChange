@@ -11,7 +11,7 @@ class Footer extends React.Component {
           <img src="https://media4.giphy.com/media/EIOKH2p0wqgl9KW5fg/giphy.gif?cid=ecf05e47chjl6ohabujj27c6zgmlmvu2srtwumo4zuxqtuov&ep=v1_stickers_search&rid=giphy.gif&ct=s" class="h-8 mr-3 w-16 h-16" alt="Flowbite Logo"></img>
             <nav className="grid grid-flow-col gap-4"><br></br>
             <aside>
-              <p>Providing the change of the future since 2023</p>
+              <p>Empowering change since 2023</p>
             </aside>
             </nav> 
             <nav>
@@ -23,7 +23,7 @@ class Footer extends React.Component {
               </div>
             </nav> 
             <aside>
-              <p>Copyright © 2023 - All right reserved by BitChange</p>
+              <p>© 2023 BitChange. All rights reserved.</p>
             </aside>
           </footer>
 
