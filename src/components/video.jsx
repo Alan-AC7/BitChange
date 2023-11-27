@@ -24,7 +24,7 @@ class Video extends React.Component {
             title="YouTube Video"
             width="100%"
             height="100%"
-            src="https://www.youtube.com/embed/L-Qhv8kLESY"
+            src="https://www.youtube.com/embed/L-Qhv8kLESY" //provicional en lo que se pone el que debe ser
             frameBorder="0"
             allowFullScreen
           ></iframe>
