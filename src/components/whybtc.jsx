@@ -5,7 +5,8 @@ class Why extends React.Component {
   render() {
     return (
       <>
-        <div className="hero min-h-screen bg-base-200 mx-5 p-14" id='whyBTC'>
+   <br></br>
+        <div className="hero min-h-screen bg-base-200  p-10" id='whyBTC'>
           <div className="hero-content flex-col lg:flex-row-reverse">
             <img
               src="https://images.unsplash.com/photo-1628151015968-3a4429e9ef04?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJpdGNvaW58ZW58MHx8MHx8fDA%3D"
@@ -32,6 +33,7 @@ class Why extends React.Component {
             </div>
           </div>
         </div>
+        
       </>
     );
   }

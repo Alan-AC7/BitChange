@@ -7,7 +7,7 @@ class Cubo extends React.Component {
             
             <>
             
-            <div  id="cubo" class=" max-w-screen-xl mx-auto py-8 px-4 lg:py-16 lg:px-6">
+            <div  id="cubo" class=" max-w-screen-xl mx-auto py-8 px-4 lg:py-12 lg:px-6">
     <div class="text-center mb-10">
         <h2 class="text-4xl tracking-tight font-bold text-primary-800">CUBO+ Program</h2>
     </div>
