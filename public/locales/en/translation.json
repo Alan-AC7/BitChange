@@ -1,0 +1,35 @@
+{
+    "index": {
+        "subtitle1": "Receive your change in Bitcoin! ",
+        "text1": "Every time you pay using fiat, BitChange wil allow you to receive your change in bitcoin. So, the next time you buy in a store, you'll have some sats to spend!",
+        "subtitle2": "Ready to start using BitChange?",
+        "text2": "Boost your business, promote the use of bitcoin, and make a difference one transaction at a time.",
+        "btn1" : "Don't know how? Learn More"
+    },
+
+    "navbar": {
+       "home": "Home",
+       "why" : "Why Bitcoin?",
+       "how" : "How To Redeem?",
+       "about" : "About"
+    },
+
+    "why": {
+        "why" : "Why Bitcoin?",
+        "transforming" : "Transforming the Future",
+        "offer" : "Bitcoin offers a global and decentralized payment solution that eliminates the need for financial intermediaries, reducing costs and accelerating transactions.",
+        "enable" : "By enabling secure and transparent transactions, Bitcoin can help gain customer trust and access new international markets, providing opportunities for entrepreneurs in both daily operations and strategic financial management.",
+        "list1" : "Decentralized and transparent transactions" ,
+        "list2" : "Reduced costs and faster transactions" ,
+        "list3" : "Enhanced efficiency and resilience for businesses"
+
+     },
+
+     "wallet": {
+      "wallet": "WALLETS",
+      "wallet2" : "Wallets",
+      "some" : "Some", 
+      "youcan" : "you can use"
+     }
+}
+

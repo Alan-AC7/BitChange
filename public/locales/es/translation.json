@@ -1,0 +1,36 @@
+
+{
+    "index": {
+        "subtitle1": "Recibe tu cambio en Bitcoin!",
+        "text1": "Cada vez que pagues en efectivo, BitChange te permitira recibir tu cambio en bitcoin. Así, la próxima vez que compres en una tienda, ¡tendrás algunos sats para gastar!",
+        "subtitle2": "¿Listo para empezar a usar BitChange?",
+        "text2": "Impulsa tu negocio, promueve el uso de bitcoin y haz la diferencia una transaccion a la vez",
+        "btn1" : "¿No sabes como? Haz click aqui"
+        
+    },
+
+    "navbar": {
+        "home": "Inicio",
+        "why" : "¿Porque Bitcoin?",
+        "how" : "¿Como canjear?",
+        "about" : "Sobre Nosotros"
+     },
+
+     "why": {
+        "why" : "¿Porque Bitcoin?",
+        "transforming" : "Transformando el futuro",
+        "offer" : "Bitcoin ofrece una solución de pago global y descentralizada que elimina la necesidad de intermediarios financieros, reduciendo costos y acelerando las transacciones.",
+        "enable" : "Al permitir transacciones seguras y transparentes, Bitcoin puede ayudar a ganarse la confianza de los clientes y acceder a nuevos mercados internacionales, brindando oportunidades a los emprendedores tanto en las operaciones diarias como en la gestión financiera estratégica.",
+        "list1" : "Transacciones descentralizadas y transparentes" ,
+        "list2" : "Costos reducidos y transacciones más rápidas" ,
+        "list3" : "Mayor eficiencia y resiliencia para las empresas"
+
+     },
+
+     "wallet": {
+        "wallet": "BILLETERAS",
+        "wallet2" : "Billeteras",
+        "some" : "Algunas", 
+        "youcan" : "que puedes usar"
+       }
+}

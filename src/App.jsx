@@ -5,6 +5,7 @@ import Index from './pages/Index';
 import WhyBitcoin from './pages/WhyBitcoin';
 import HowToRedeem from './pages/HowToRedeem';
 import About from './pages/About';
+import './i18n';
 
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
