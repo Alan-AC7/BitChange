@@ -30,6 +30,85 @@
       "wallet2" : "Wallets",
       "some" : "Some", 
       "youcan" : "you can use"
-     }
+     },
+
+     "video": {
+        "title1": "Start using Bitcoin Now!",
+        "text1" : "Enter the wonderful world of bitcoin with BitChange! Unlock the power of change. BitChange will revolutionize your experience."
+       },
+
+       "article": {
+        "start": "Ready to start",
+        "start2": "learning",
+        "start3": "about Bitcoin?",
+        "start4": "Increase your knowledge and read more interesting information about Bitcoin",
+        "start5": "The Bitcoin Knowledge podcast",
+        "start6": "Bitcoin Podcast",
+        "start7": "Bitcoin Magazine"
+       }, 
+
+       "how": {
+        "how1": "REDEEM PROCESS",
+        "how2": "WHAT CAN YOU DO AFTER REDEEMING?",
+        "how3": "You received your change in BTC. Now what?",
+        "how4": "You can see BTC Map to see which businesses accept Bitcoin!"
+    },
+
+    "steps": {
+        "steps1": "STEPS",
+        "steps2": "How it",
+        "steps3": "Works?",
+        "steps4": "Answer correctly",
+        "steps5": "After taking your product to the checkout and paying in cash, the seller will ask you if you want your change in bitcoin.",
+        "steps6": "Remember, its optional but any answer other than yes is not correct",
+        "steps7": "Get you receipt",
+        "steps8": "The seller will do the checkout process using the Bit Change tool, and will give you a printed receipt with the details of your purchase, and two QR codes.",
+        "steps9": "One to redeem your change and the other will take directly to this page, in case you need more information",
+        "steps10": "Use a Wallet to redeem your change",
+        "steps11": "It is mandatory to use a bitcoin wallet to get your change in bitcoin.",
+        "steps12": "Use the scan function of your bitcoin wallet to receive your change"
+    },
+
+    "gallery": {
+        "gallery1": "Where can I spend my Bitcoin?",
+        "gallery2": "Local Businesses",
+        "gallery3": "Restaurants"
+
+        
+    },
+
+    "about": {
+        "about1": "ABOUT US"
+
+        
+    },
+
+    "cubo": {
+        "cubo1": "CUBO+ Program",
+        "cubo2": "CUBO+ Educational Program is an initiative crafted by and for Salvadorans, with the goal of training the next generation of Salvadoran devs.",
+        "cubo3": "Preparatory period",
+        "cubo4": "The preparatory phase, spanning from mid-April to early June, encompassed online sessions focused on exploring the role of Bitcoin and its influence on society.",
+        "cubo5": "On-site bootcamp",
+        "cubo6": "The on-site bootcamp occurred during the initial two weeks of July, concentrating on a more in-depth exploration of the LNP/BP technology.",
+        "cubo7": "Bitcoin Office + Fulgure Ventures",
+        "cubo8": "This was an initiative planned for El Salvador, the bitcoin country. Planned by the bitcoin office in association with Fulgure Ventures"
+        
+
+        
+    },
+
+    "team": {
+        "team1": "Our Team",
+        "team2": "Meet Our Wonderful Team",
+        "team3": "Front-end Developer",
+        "team4": "Back-end Developer"
+       
+
+        
+    }
+
+
+
+    
 }
 

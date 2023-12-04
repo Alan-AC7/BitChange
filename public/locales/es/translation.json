@@ -32,5 +32,80 @@
         "wallet2" : "Billeteras",
         "some" : "Algunas", 
         "youcan" : "que puedes usar"
-       }
+       },
+
+       "video": {
+          "title1": "¡Empieza a usar bitcoin ahora!",
+          "text1" : "¡Adentrate en el maravilloso mundo de bitcoin con BitChange! Libera el poder del cambio. BitChange revolucionará tu experiencia."
+         },
+
+         "article": {
+            "start": "¿Listo para comenzar",
+            "start2": "a aprender",
+            "start3": "sobre Bitcoin?",
+            "start4": "Aumenta tus conocimientos y lee más información interesante sobre Bitcoin",
+            "start5": "Bitcoin Knowledge Podcast",
+            "start6": "Bitcoin Podcast",
+            "start7": "Bitcoin Magazine"
+           },
+
+           "how": {
+            "how1": "PROCESO DE CANJEO",
+            "how2": "¿QUE HACER DESPUES DE CANJEAR?",
+            "how3": "Recibiste tu cambio in BTC. ¿Ahora que?",
+            "how4": "¡Puedes ver en BTC Map que negocios aceptan Bitcoin!"
+        },
+
+        "steps": {
+         "steps1": "PASOS",
+         "steps2": "¿Como",
+         "steps3": "Funciona?",
+         "steps4": "Responde Correctamente",
+         "steps5": "Luego de llevar tu producto a la caja y pagar en efectivo, el vendedor te preguntará si quieres tu cambio en bitcoin.",
+         "steps6": "Recuerda, es opcional, pero cualquier respuesta que no sea sí es incorrecta.",
+         "steps7": "Obten tu recibo",
+         "steps8": "El vendedor realizará el proceso de pago utilizando la herramienta Bit Change y le entregará un recibo impreso con los detalles de su compra y dos códigos QR.",
+         "steps9": "Uno para canjear tu cambio y el otro te llevará directamente a esta página, en caso de que necesites más información.",
+         "steps10": "Utiliza una billetera para canjear su cambio",
+         "steps11": "Es obligatorio utilizar una billetera bitcoin para obtener el cambio en bitcoin.",
+         "steps12": "Utiliza la función de escaneo de tu billetera bitcoin para recibir ttu cambio"
+     },
+
+     "gallery": {
+         "gallery1": "¿Donde puedo gastar mi bitcoin?",
+         "gallery2": "Negocios Locales",
+         "gallery3": "Restaurantes"
+ 
+         
+     },
+     
+    "about": {
+      "about1": "SOBRE NOSOTROS"
+      
+   },
+      
+   "cubo": {
+      "cubo1": "Programa Cubo+",
+      "cubo2": "El Programa Educativo CUBO+ es una iniciativa diseñada por y para salvadoreños, con el objetivo de capacitar a la próxima generación de desarrolladores salvadoreños.",
+      "cubo3": "Periodo preparatorio",
+      "cubo4": "La fase preparatoria, que se extendió desde mediados de abril hasta principios de junio, incluyó sesiones en línea centradas en explorar el papel de Bitcoin y su influencia en la sociedad.",
+      "cubo5": "Campamento de entrenamiento presencial",
+      "cubo6": "El campamento de entrenamiento in presencial se llevó a cabo durante las dos primeras semanas de julio y se concentró en una exploración más profunda de la tecnología LNP/BP.",
+      "cubo7": "Oficina del Bitcoin + Fulgure Ventures",
+      "cubo8": "Esta fue una iniciativa planeada para El Salvador, el país bitcoin. Planificado por la oficina de bitcoin en asociación con Fulgure Ventures"
+      
+
+      
+  },
+
+  "team": {
+      "team1": "Nuestro Equipo",
+      "team2": "Conoce a nuestro maravilloso equipo",
+      "team3": "Desarrollador Front-end",
+      "team4": "Desarrollador Back-end"
+     
+
+      
+  }
+
 }
