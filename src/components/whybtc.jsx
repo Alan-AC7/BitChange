@@ -12,9 +12,10 @@ function Why() {
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
             src="https://images.unsplash.com/photo-1628151015968-3a4429e9ef04?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJpdGNvaW58ZW58MHx8MHx8fDA%3D"
-            className="max-w-sm rounded-lg shadow-2xl mb-4 lg:mb-0 lg:mr-4"
+            className="max-w-sm rounded-lg shadow-2xl mb-4 lg:mb-0 lg:ml-4"
             alt="Bitcoin Illustration"
           />
+
           <div className="w-full lg:w-1/2">
             <h1 className="text-5xl text-[rgb(242,135,13)] font-bold mb-4">
               {t('why.why')}
@@ -44,3 +45,5 @@ function Why() {
 }
 
 export default Why;
+
+
