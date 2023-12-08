@@ -45,4 +45,3 @@ function Cubo() {
 
 export default Cubo;
 
-
