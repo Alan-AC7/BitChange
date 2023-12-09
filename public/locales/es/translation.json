@@ -11,13 +11,13 @@
 
     "navbar": {
         "home": "Inicio",
-        "why" : "¿Porque Bitcoin?",
+        "why" : "¿Por que Bitcoin?",
         "how" : "¿Como canjear?",
         "about" : "Sobre Nosotros"
      },
 
      "why": {
-        "why" : "¿Porque Bitcoin?",
+        "why" : "¿Por que Bitcoin?",
         "transforming" : "Transformando el futuro",
         "offer" : "Bitcoin ofrece una solución de pago global y descentralizada que elimina la necesidad de intermediarios financieros, reduciendo costos y acelerando las transacciones.",
         "enable" : "Al permitir transacciones seguras y transparentes, Bitcoin puede ayudar a ganarse la confianza de los clientes y acceder a nuevos mercados internacionales, brindando oportunidades a los emprendedores tanto en las operaciones diarias como en la gestión financiera estratégica.",

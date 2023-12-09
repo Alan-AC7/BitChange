@@ -18,6 +18,10 @@ function LanguageSelector() {
       >
         <option value="en">English</option>
         <option value="es">Español</option>
+        <option value="it">Italiano</option>
+        <option value="fr">Français</option>
+        <option value="port">Português</option>
+        <option value="al">Deutsch</option>
         {/* Agrega más opciones según los idiomas que admitas */}
       </select>
       <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-white">

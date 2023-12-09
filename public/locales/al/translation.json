@@ -1,0 +1,98 @@
+{
+    "index": {
+        "subtitle1": "Erhalten Sie Ihr Wechselgeld in Bitcoin!",
+        "text1": "Jedes Mal, wenn Sie mit Fiat bezahlen, ermöglicht es BitChange, Ihr Wechselgeld in Bitcoin zu erhalten. Also, das nächste Mal, wenn Sie in einem Geschäft kaufen, haben Sie einige Sats zum Ausgeben!",
+        "subtitle2": "Bereit, BitChange zu verwenden?",
+        "text2": "Steigern Sie Ihr Geschäft, fördern Sie die Verwendung von Bitcoin und machen Sie einen Unterschied bei jeder Transaktion.",
+        "btn1": "Wissen Sie nicht wie? Mehr erfahren"
+    },
+
+    "navbar": {
+        "home": "Startseite",
+        "why": "Warum Bitcoin?",
+        "how": "Wie einlösen?",
+        "about": "Über uns"
+    },
+
+    "why": {
+        "why": "Warum Bitcoin?",
+        "transforming": "Die Zukunft transformieren",
+        "offer": "Bitcoin bietet eine globale und dezentrale Zahlungslösung, die die Notwendigkeit von Finanzintermediären beseitigt, die Kosten reduziert und Transaktionen beschleunigt.",
+        "enable": "Durch die Ermöglichung sicherer und transparenter Transaktionen kann Bitcoin das Vertrauen der Kunden gewinnen und den Zugang zu neuen internationalen Märkten ermöglichen. Dies bietet Chancen für Unternehmer sowohl im täglichen Betrieb als auch im strategischen Finanzmanagement.",
+        "list1": "Dezentrale und transparente Transaktionen",
+        "list2": "Geringere Kosten und schnellere Transaktionen",
+        "list3": "Verbesserte Effizienz und Widerstandsfähigkeit für Unternehmen"
+    },
+
+    "wallet": {
+        "wallet": "BRIEFTASCHEN",
+        "wallet2": "Brieftaschen",
+        "some": "Einige",
+        "youcan": "du kannst verwenden"
+    },
+
+    "video": {
+        "title1": "Beginnen Sie jetzt mit Bitcoin!",
+        "text1": "Betreten Sie die wunderbare Welt von Bitcoin mit BitChange! Entfesseln Sie die Kraft der Veränderung. BitChange wird Ihre Erfahrung revolutionieren."
+    },
+
+    "article": {
+        "start": "Bereit zum Start",
+        "start2": "zum Lernen",
+        "start3": "über Bitcoin?",
+        "start4": "Erhöhen Sie Ihr Wissen und lesen Sie weitere interessante Informationen über Bitcoin",
+        "start5": "Der Bitcoin-Knowledge-Podcast",
+        "start6": "Bitcoin Podcast",
+        "start7": "Bitcoin-Magazin"
+    },
+
+    "how": {
+        "how1": "EINLÖSEPROZESS",
+        "how2": "WAS KÖNNEN SIE NACH DEM EINLÖSEN TUN?",
+        "how3": "Sie haben Ihr Wechselgeld in BTC erhalten. Und jetzt?",
+        "how4": "Sie können die BTC-Karte anzeigen, um zu sehen, welche Unternehmen Bitcoin akzeptieren!"
+    },
+
+    "steps": {
+        "steps1": "SCHRITTE",
+        "steps2": "Wie es",
+        "steps3": "funktioniert?",
+        "steps4": "Richtig antworten",
+        "steps5": "Nachdem Sie Ihr Produkt zur Kasse gebracht und in bar bezahlt haben, wird der Verkäufer Sie fragen, ob Sie Ihr Wechselgeld in Bitcoin möchten.",
+        "steps6": "Denken Sie daran, es ist optional, aber jede Antwort außer Ja ist nicht korrekt",
+        "steps7": "Holen Sie sich Ihren Beleg",
+        "steps8": "Der Verkäufer führt den Kassenvorgang mit dem Bit Change-Tool durch und gibt Ihnen einen gedruckten Beleg mit den Details Ihres Kaufs und zwei QR-Codes.",
+        "steps9": "Einer zum Einlösen Ihres Wechselgelds und der andere führt Sie direkt zu dieser Seite, falls Sie weitere Informationen benötigen",
+        "steps10": "Verwenden Sie eine Brieftasche, um Ihr Wechselgeld einzulösen",
+        "steps11": "Es ist obligatorisch, eine Bitcoin-Brieftasche zu verwenden, um Ihr Wechselgeld in Bitcoin zu erhalten.",
+        "steps12": "Verwenden Sie die Scan-Funktion Ihrer Bitcoin-Brieftasche, um Ihr Wechselgeld zu erhalten."
+    },
+
+    "gallery": {
+        "gallery1": "Wo kann ich mein Bitcoin ausgeben?",
+        "gallery2": "Lokale Unternehmen",
+        "gallery3": "Restaurants"
+    },
+
+    "about": {
+        "about1": "ÜBER UNS"
+    },
+
+    "cubo": {
+        "cubo1": "CUBO+ Programm",
+        "cubo2": "Das CUBO+ Educational Program ist eine Initiative, die von und für Salvadorianer geschaffen wurde, mit dem Ziel, die nächste Generation von salvadorianischen Entwicklern auszubilden.",
+        "cubo3": "Vorbereitungszeitraum",
+        "cubo4": "Die Vorbereitungsphase erstreckte sich von Mitte April bis Anfang Juni und umfasste Online-Sitzungen, die sich auf die Rolle von Bitcoin und seinen Einfluss auf die Gesellschaft konzentrierten.",
+        "cubo5": "Bootcamp vor Ort",
+        "cubo6": "Das Bootcamp vor Ort fand in den ersten beiden Wochen im Juli statt und konzentrierte sich auf eine eingehendere Erkundung der LNP/BP-Technologie.",
+        "cubo7": "Bitcoin Office + Fulgure Ventures",
+        "cubo8": "Dies war eine Initiative, die für El Salvador, das Bitcoin-Land, geplant war. Geplant vom Bitcoin-Büro in Zusammenarbeit mit Fulgure Ventures."
+    },
+
+    "team": {
+        "team1": "Unser Team",
+        "team2": "Lernen Sie unser wunderbares Team kennen",
+        "team3": "Front-End-Entwickler",
+        "team4": "Back-End-Entwickler"
+    }
+}

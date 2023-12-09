@@ -1,0 +1,98 @@
+{
+    "index": {
+        "subtitle1": "Receba seu troco em Bitcoin!",
+        "text1": "Toda vez que você pagar com moeda fiduciária, o BitChange permitirá que você receba seu troco em bitcoin. Então, da próxima vez que você comprar em uma loja, você terá alguns sats para gastar!",
+        "subtitle2": "Pronto para começar a usar o BitChange?",
+        "text2": "Impulsione seu negócio, promova o uso do bitcoin e faça a diferença em cada transação.",
+        "btn1": "Não sabe como? Saiba mais"
+    },
+
+    "navbar": {
+        "home": "Início",
+        "why": "Por que Bitcoin?",
+        "how": "Como Resgatar?",
+        "about": "Sobre"
+    },
+
+    "why": {
+        "why": "Por que Bitcoin?",
+        "transforming": "Transformando o Futuro",
+        "offer": "O Bitcoin oferece uma solução de pagamento global e descentralizada que elimina a necessidade de intermediários financeiros, reduzindo custos e acelerando transações.",
+        "enable": "Ao possibilitar transações seguras e transparentes, o Bitcoin pode ajudar a conquistar a confiança do cliente e acessar novos mercados internacionais, proporcionando oportunidades para empreendedores nas operações diárias e na gestão financeira estratégica.",
+        "list1": "Transações descentralizadas e transparentes",
+        "list2": "Custos reduzidos e transações mais rápidas",
+        "list3": "Eficiência aprimorada e resiliência para empresas"
+    },
+
+    "wallet": {
+        "wallet": "CARTEIRAS",
+        "wallet2": "Carteiras",
+        "some": "Algumas",
+        "youcan": "você pode usar"
+    },
+
+    "video": {
+        "title1": "Comece a usar Bitcoin agora!",
+        "text1": "Entre no maravilhoso mundo do bitcoin com o BitChange! Liberte o poder da mudança. BitChange revolucionará sua experiência."
+    },
+
+    "article": {
+        "start": "Pronto para começar",
+        "start2": "a aprender",
+        "start3": "sobre o Bitcoin?",
+        "start4": "Aumente seu conhecimento e leia informações mais interessantes sobre o Bitcoin",
+        "start5": "O podcast de conhecimento sobre o Bitcoin",
+        "start6": "Podcast Bitcoin",
+        "start7": "Revista Bitcoin"
+    },
+
+    "how": {
+        "how1": "PROCESSO DE RESGATE",
+        "how2": "O QUE VOCÊ PODE FAZER APÓS RESGATAR?",
+        "how3": "Você recebeu seu troco em BTC. E agora?",
+        "how4": "Você pode ver o Mapa BTC para ver quais empresas aceitam Bitcoin!"
+    },
+
+    "steps": {
+        "steps1": "ETAPAS",
+        "steps2": "Como isso",
+        "steps3": "Funciona?",
+        "steps4": "Responda corretamente",
+        "steps5": "Depois de levar seu produto ao caixa e pagar em dinheiro, o vendedor perguntará se você quer seu troco em bitcoin.",
+        "steps6": "Lembre-se, é opcional, mas qualquer resposta que não seja sim não está correta",
+        "steps7": "Pegue seu recibo",
+        "steps8": "O vendedor realizará o processo de checkout usando a ferramenta Bit Change e lhe dará um recibo impresso com os detalhes da sua compra e dois códigos QR.",
+        "steps9": "Um para resgatar seu troco e o outro o levará diretamente a esta página, caso precise de mais informações",
+        "steps10": "Use uma Carteira para resgatar seu troco",
+        "steps11": "É obrigatório usar uma carteira de bitcoin para receber seu troco em bitcoin.",
+        "steps12": "Use a função de escaneamento de sua carteira de bitcoin para receber seu troco."
+    },
+
+    "gallery": {
+        "gallery1": "Onde posso gastar meu Bitcoin?",
+        "gallery2": "Empresas locais",
+        "gallery3": "Restaurantes"
+    },
+
+    "about": {
+        "about1": "SOBRE NÓS"
+    },
+
+    "cubo": {
+        "cubo1": "Programa CUBO+",
+        "cubo2": "O Programa Educacional CUBO+ é uma iniciativa criada por e para salvadorenhos, com o objetivo de treinar a próxima geração de desenvolvedores salvadorenhos.",
+        "cubo3": "Período preparatório",
+        "cubo4": "A fase preparatória, que se estendeu de meados de abril a início de junho, abrangeu sessões online focadas em explorar o papel do Bitcoin e sua influência na sociedade.",
+        "cubo5": "Bootcamp presencial",
+        "cubo6": "O bootcamp presencial ocorreu durante as duas primeiras semanas de julho, concentrando-se em uma exploração mais aprofundada da tecnologia LNP/BP.",
+        "cubo7": "Bitcoin Office + Fulgure Ventures",
+        "cubo8": "Esta foi uma iniciativa planejada para El Salvador, o país do bitcoin. Planejada pelo escritório do bitcoin em associação com a Fulgure Ventures."
+    },
+
+    "team": {
+        "team1": "Nossa Equipe",
+        "team2": "Conheça Nossa Maravilhosa Equipe",
+        "team3": "Desenvolvedor Front-end",
+        "team4": "Desenvolvedor Back-end"
+    }
+}

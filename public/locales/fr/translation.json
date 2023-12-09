@@ -1,0 +1,98 @@
+{
+    "index": {
+        "subtitle1": "Recevez votre monnaie en Bitcoin!",
+        "text1": "Chaque fois que vous payez en monnaie fiduciaire, BitChange vous permettra de recevoir votre monnaie en bitcoin. Ainsi, la prochaine fois que vous achetez dans un magasin, vous aurez quelques sats à dépenser!",
+        "subtitle2": "Prêt à commencer à utiliser BitChange?",
+        "text2": "Boostez votre entreprise, promouvez l'utilisation du bitcoin et faites la différence transaction après transaction.",
+        "btn1": "Vous ne savez pas comment? En savoir plus"
+    },
+
+    "navbar": {
+        "home": "Accueil",
+        "why": "Pourquoi Bitcoin?",
+        "how": "Comment échanger?",
+        "about": "À propos"
+    },
+
+    "why": {
+        "why": "Pourquoi Bitcoin?",
+        "transforming": "Transformer l'avenir",
+        "offer": "Bitcoin offre une solution de paiement mondiale et décentralisée qui élimine le besoin d'intermédiaires financiers, réduisant les coûts et accélérant les transactions.",
+        "enable": "En permettant des transactions sécurisées et transparentes, Bitcoin peut contribuer à gagner la confiance des clients et à accéder à de nouveaux marchés internationaux, offrant des opportunités aux entrepreneurs tant dans les opérations quotidiennes que dans la gestion financière stratégique.",
+        "list1": "Transactions décentralisées et transparentes",
+        "list2": "Coûts réduits et transactions plus rapides",
+        "list3": "Efficacité et résilience accrues pour les entreprises"
+    },
+
+    "wallet": {
+        "wallet": "PORTEFEUILLES",
+        "wallet2": "Portefeuilles",
+        "some": "Certains",
+        "youcan": "vous pouvez utiliser"
+    },
+
+    "video": {
+        "title1": "Commencez à utiliser Bitcoin dès maintenant!",
+        "text1": "Entrez dans le merveilleux monde du bitcoin avec BitChange! Libérez la puissance du changement. BitChange révolutionnera votre expérience."
+    },
+
+    "article": {
+        "start": "Prêt à commencer",
+        "start2": "à apprendre",
+        "start3": "sur le Bitcoin?",
+        "start4": "Augmentez vos connaissances et lisez des informations plus intéressantes sur le Bitcoin",
+        "start5": "Le podcast sur la connaissance du Bitcoin",
+        "start6": "Podcast Bitcoin",
+        "start7": "Bitcoin Magazine"
+    },
+
+    "how": {
+        "how1": "PROCESSUS D'ÉCHANGE",
+        "how2": "QUE POUVEZ-VOUS FAIRE APRÈS L'ÉCHANGE?",
+        "how3": "Vous avez reçu votre monnaie en BTC. Et maintenant?",
+        "how4": "Vous pouvez voir la carte BTC pour voir quels commerces acceptent le Bitcoin!"
+    },
+
+    "steps": {
+        "steps1": "ÉTAPES",
+        "steps2": "Comment ça",
+        "steps3": "Fonctionne?",
+        "steps4": "Répondez correctement",
+        "steps5": "Après avoir apporté votre produit à la caisse et avoir payé en espèces, le vendeur vous demandera si vous souhaitez votre monnaie en bitcoin.",
+        "steps6": "Rappelez-vous, c'est facultatif, mais toute réponse autre que oui n'est pas correcte",
+        "steps7": "Obtenez votre reçu",
+        "steps8": "Le vendeur effectuera le processus de caisse à l'aide de l'outil Bit Change et vous remettra un reçu imprimé avec les détails de votre achat et deux codes QR.",
+        "steps9": "Un pour récupérer votre monnaie et l'autre vous conduira directement à cette page, au cas où vous auriez besoin de plus d'informations",
+        "steps10": "Utilisez un portefeuille pour récupérer votre monnaie",
+        "steps11": "Il est obligatoire d'utiliser un portefeuille Bitcoin pour récupérer votre monnaie en bitcoin.",
+        "steps12": "Utilisez la fonction de numérisation de votre portefeuille Bitcoin pour recevoir votre monnaie."
+    },
+
+    "gallery": {
+        "gallery1": "Où puis-je dépenser mon Bitcoin?",
+        "gallery2": "Entreprises locales",
+        "gallery3": "Restaurants"
+    },
+
+    "about": {
+        "about1": "À PROPOS DE NOUS"
+    },
+
+    "cubo": {
+        "cubo1": "Programme CUBO+",
+        "cubo2": "Le programme éducatif CUBO+ est une initiative élaborée par et pour les Salvadoriens, dans le but de former la prochaine génération de développeurs salvadoriens.",
+        "cubo3": "Période préparatoire",
+        "cubo4": "La phase préparatoire, s'étendant de la mi-avril à début juin, comprenait des sessions en ligne axées sur l'exploration du rôle du Bitcoin et de son influence sur la société.",
+        "cubo5": "Bootcamp sur site",
+        "cubo6": "Le bootcamp sur site a eu lieu pendant les deux premières semaines de juillet, se concentrant sur une exploration plus approfondie de la technologie LNP/BP.",
+        "cubo7": "Bitcoin Office + Fulgure Ventures",
+        "cubo8": "Il s'agissait d'une initiative prévue pour El Salvador, le pays du bitcoin. Planifié par le bureau du bitcoin en association avec Fulgure Ventures."
+    },
+
+    "team": {
+        "team1": "Notre équipe",
+        "team2": "Rencontrez notre merveilleuse équipe",
+        "team3": "Développeur front-end",
+        "team4": "Développeur back-end"
+    }
+}
