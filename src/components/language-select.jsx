@@ -12,8 +12,7 @@ function LanguageSelector() {
   return (
     <div className="relative inline-block text-left">
       <select
-        className="appearance-none bg-[rgb(242,135,13)] text-white py-1 px-2 pr-6 rounded leading-tight focus:outline-none focus:border-primary-color focus:border-2
-        sm:py-2 sm:px-4 sm:pr-8 sm:text-base"  // Ajustes para dispositivos más grandes
+        className="appearance-none bg-[rgb(242,135,13)] text-white py-1 px-2 pr-6 rounded leading-tight focus:outline-none focus:border-primary-color focus:border-2"
         onChange={(e) => changeLanguage(e.target.value)}
         value={i18n.language}
       >
