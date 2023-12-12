@@ -1,0 +1,98 @@
+{
+    "index": {
+        "subtitle1": "Odbieraj swoje resztki w Bitcoinach!",
+        "text1": "Za każdym razem, gdy płacisz fiat, BitChange pozwoli ci otrzymać resztki w bitcoinach. Więc następnym razem, gdy kupisz w sklepie, będziesz miał trochę sats do wydania!",
+        "subtitle2": "Gotowy, aby zacząć korzystać z BitChange?",
+        "text2": "Wzmocnij swoją firmę, promuj korzystanie z bitcoina i zrób różnicę za każdym razem, gdy dokonasz transakcji.",
+        "btn1": "Nie wiesz jak? Dowiedz się więcej"
+    },
+
+    "navbar": {
+        "home": "Strona główna",
+        "why": "Dlaczego Bitcoin?",
+        "how": "Jak odebrać?",
+        "about": "O nas"
+    },
+
+    "why": {
+        "why": "Dlaczego Bitcoin?",
+        "transforming": "Zmieniając Przyszłość",
+        "offer": "Bitcoin oferuje globalne i zdecentralizowane rozwiązanie płatnicze, eliminujące potrzebę pośredników finansowych, redukujące koszty i przyspieszające transakcje.",
+        "enable": "Umożliwiając bezpieczne i transparentne transakcje, Bitcoin może pomóc zyskać zaufanie klientów i uzyskać dostęp do nowych międzynarodowych rynków, tworząc możliwości dla przedsiębiorców zarówno w codziennych operacjach, jak i strategicznym zarządzaniu finansami.",
+        "list1": "Zdecentralizowane i transparentne transakcje",
+        "list2": "Zredukowane koszty i szybsze transakcje",
+        "list3": "Zwiększona efektywność i odporność dla firm"
+    },
+
+    "wallet": {
+        "wallet": "PORTFELE",
+        "wallet2": "Portfele",
+        "some": "Niektóre",
+        "youcan": "możesz używać"
+    },
+
+    "video": {
+        "title1": "Zacznij używać Bitcoin już teraz!",
+        "text1": "Wejdź do wspaniałego świata bitcoina z BitChange! Odblokuj moc zmiany. BitChange zrewolucjonizuje Twoje doświadczenie."
+    },
+
+    "article": {
+        "start": "Gotów rozpocząć",
+        "start2": "uczenie się",
+        "start3": "o Bitcoinie?",
+        "start4": "Zwiększ swoją wiedzę i przeczytaj więcej interesujących informacji na temat Bitcoina",
+        "start5": "Podcast Wiedzy o Bitcoinie",
+        "start6": "Podcast Bitcoin",
+        "start7": "Magazyn Bitcoin"
+    },
+
+    "how": {
+        "how1": "PROCES ODBIORU",
+        "how2": "CO MOŻESZ ZROBIĆ PO ODBIORZE?",
+        "how3": "Otrzymałeś swoje resztki w BTC. A teraz co?",
+        "how4": "Możesz zobaczyć mapę BTC, aby sprawdzić, które firmy akceptują bitcoiny!"
+    },
+
+    "steps": {
+        "steps1": "KROKI",
+        "steps2": "Jak to",
+        "steps3": "działa?",
+        "steps4": "Odpowiedz poprawnie",
+        "steps5": "Po zabraniu produktu do kasy i zapłaceniu gotówką, sprzedawca zapyta cię, czy chcesz reszty w bitcoiach.",
+        "steps6": "Pamiętaj, że to opcjonalne, ale każda odpowiedź inna niż tak jest niepoprawna",
+        "steps7": "Odbierz paragon",
+        "steps8": "Sprzedawca przeprowadzi proces w kasie za pomocą narzędzia Bit Change i da ci wydrukowany paragon z danymi dotyczącymi zakupu i dwoma kodami QR.",
+        "steps9": "Jeden do odebrania reszty, a drugi zabierze cię bezpośrednio na tę stronę, jeśli potrzebujesz więcej informacji",
+        "steps10": "Użyj portfela, aby odebrać resztę",
+        "steps11": "Użycie portfela bitcoinowego jest obowiązkowe, aby otrzymać resztę w bitcoinaach.",
+        "steps12": "Użyj funkcji skanowania swojego portfela bitcoinowego, aby odebrać resztę"
+    },
+
+    "gallery": {
+        "gallery1": "Gdzie mogę wydać swoje bitcoiny?",
+        "gallery2": "Lokalne firmy",
+        "gallery3": "Restauracje"
+    },
+
+    "about": {
+        "about1": "O NAS"
+    },
+
+    "cubo": {
+        "cubo1": "Program CUBO+",
+        "cubo2": "Program Edukacyjny CUBO+ to inicjatywa stworzona przez i dla Salvadorczyków, mająca na celu szkolenie następnej generacji programistów z Salwadoru.",
+        "cubo3": "Okres przygotowawczy",
+        "cubo4": "Faza przygotowawcza, trwająca od połowy kwietnia do początku czerwca, obejmowała sesje online skoncentrowane na badaniu roli Bitcoina i jego wpływie na społeczeństwo.",
+        "cubo5": "Bootcamp na miejscu",
+        "cubo6": "Bootcamp na miejscu odbył się w ciągu dwóch pierwszych tygodni lipca, skupiając się na bardziej dogłębnym zbadaniu technologii LNP/BP.",
+        "cubo7": "Bitcoin Office + Fulgure Ventures",
+        "cubo8": "Była to inicjatywa planowana dla Salwadoru, kraju bitcoina. Zaplanowana przez biuro bitcoina we współpracy z Fulgure Ventures"
+    },
+
+    "team": {
+        "team1": "Nasz zespół",
+        "team2": "Poznaj nasz wspaniały zespół",
+        "team3": "Deweloper front-endu",
+        "team4": "Deweloper back-endu"
+    }
+}

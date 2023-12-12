@@ -1,0 +1,113 @@
+{
+    "index": {
+        "subtitle1": "Recipere monetae tuum in Bitcoin!",
+        "text1": "Quoties persolveris pecunia utendo fiat, BitChange tibi concedet accipere monetae tuum in Bitcoin. Ita, proxima vice qua emas in taberna, habebis aliquot sats ad expendendum!",
+        "subtitle2": "Paratusne es ad utendum BitChange?",
+        "text2": "Auge tuum negotium, promove usum Bitcoin, et fac differentiam una transactio per tempus.",
+        "btn1" : "Nescis quomodo? Discere Amplius"
+    },
+
+    "navbar": {
+       "home": "Domus",
+       "why" : "Cur Bitcoin?",
+       "how" : "Quomodo Resarci?",
+       "about" : "De Nobis"
+    },
+
+    "why": {
+        "why" : "Cur Bitcoin?",
+        "transforming" : "Futurum Transformans",
+        "offer" : "Bitcoin offert solutionem globalem et decentralizatam ad persolvendum quae removet necessitatem interventorum financiariorum, minuit sumptus, et accelerat transactiones.",
+        "enable" : "Transactiones securas et perspicuas poscendo, Bitcoin potest auxilium ferre ut customer fidem acquiras et ad novos mercatus internationales accedas, opportunitates praebens entrepreneuribus tam in quotidianis operationibus quam in ratione gerenda pecuniaria strategica.",
+        "list1" : "Transactiones decentralizatae et perspicuae" ,
+        "list2" : "Sumptus minuti et transactiones velociores" ,
+        "list3" : "Efficientia et resistentia aucta negotiis"
+
+     },
+
+     "wallet": {
+      "wallet": "CAPSAE",
+      "wallet2" : "Capsae",
+      "some" : "Quaedam", 
+      "youcan" : "utaris"
+     },
+
+     "video": {
+        "title1": "Incipe uti Bitcoin Nunc!",
+        "text1" : "Ingredere in mirificum mundum Bitcoin cum BitChange! Evolve potentiam mutationis. BitChange revolutionem faciet tuam experientiam."
+       },
+
+       "article": {
+        "start": "Paratus incipere",
+        "start2": "discere",
+        "start3": "de Bitcoin?",
+        "start4": "Auge scientiam tuam et lege plus notitias interessantes de Bitcoin",
+        "start5": "Podcast Notitiae Bitcoin",
+        "start6": "Podcast Bitcoin",
+        "start7": "Magazine Bitcoin"
+       }, 
+
+       "how": {
+        "how1": "PROCESSUS RESTITUTIONIS",
+        "how2": "QUID POST RESTITUTIONEM FACERE POTES?",
+        "how3": "Accepisti monetae tuum in BTC. Quid nunc?",
+        "how4": "Potest videre Map BTC ut videas quae negotia recipiant Bitcoin!"
+    },
+
+    "steps": {
+        "steps1": "GRADUS",
+        "steps2": "Quomodo id",
+        "steps3": "Operatur?",
+        "steps4": "Responde recte",
+        "steps5": "Postquam productum tuum ad cistam adduxeris et numeraveris, venditor te roget utrum monetae tuum in Bitcoin desideres.",
+        "steps6": "Memento, hoc est optativum, sed responsum praeter 'ita' non est corretum",
+        "steps7": "Recepe tuum chartam",
+        "steps8": "Venditor processum checkout per instrumentum Bit Change faciet et tibi chartam impressam dabit cum particularibus emptionis tuae et duobus codicibus QR.",
+        "steps9": "Unum ad restituendum monetae tuum et alterum te directe ad hanc paginam ducet, si ampliorem informationem desideres",
+        "steps10": "Utere Capsa ad monetae tuum restituendum",
+        "steps11": "Oportet utas Capsam Bitcoin ad monetae tuum in Bitcoin recipiendum.",
+        "steps12": "Utare functione scansionis Capsae tuae Bitcoin ad monetae tuum recipiendum"
+    },
+
+    "gallery": {
+        "gallery1": "Ubi possum expendere Bitcoin meum?",
+        "gallery2": "Negotia Localia",
+        "gallery3": "Restaurantia"
+
+        
+    },
+
+    "about": {
+        "about1": "DE NOBIS"
+
+        
+    },
+
+    "cubo": {
+        "cubo1": "Programma CUBO+",
+        "cubo2": "Programma Educativum CUBO+ est initiativa a Salvadorianis fabricata, ad formandum proximam generationem scriptorum Salvadorianorum destinata.",
+        "cubo3": "Tempus praeparatorium",
+        "cubo4": "Fas praeparatorium, a medio Aprili ad inium Iunii, comprehendebat sessiones online quae spectabant ad explorationem functionis Bitcoin et eius influentiam in societate.",
+        "cubo5": "Campus praesens",
+        "cubo6": "Campus praesens duabus primis hebdomadibus Iulii fiebat, centratus in exploratione profundiori technologiae LNP/BP.",
+        "cubo7": "Officium Bitcoin + Ventures Fulgure",
+        "cubo8": "Haec erat initiativa proposita El Salvador, patria Bitcoin. Proiecta a munere Bitcoin in consortium cum Ventures Fulgure"
+        
+
+        
+    },
+
+    "team": {
+        "team1": "Noster Campus",
+        "team2": "Inveni Noster Mirificus Campus",
+        "team3": "Scriptor Frontalis",
+        "team4": "Scriptor Posterior"
+       
+
+        
+    }
+
+
+
+    
+}

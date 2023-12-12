@@ -1,0 +1,87 @@
+{
+    "index": {
+       "subtitle1": "Değişiminizi Bitcoin olarak alın!",
+       "text1": "Her seferinde fiat kullanarak ödeme yaptığınızda, BitChange size değişiminizi Bitcoin olarak almanıza izin verecektir. Bu nedenle bir mağazadan bir şey satın aldığınızda bir sonraki sefer, harcamak için bazı satoshilere sahip olacaksınız!",
+       "subtitle2": "BitChange kullanmaya hazır mısınız?",
+       "text2": "İşinizi canlandırın, bitcoin kullanımını teşvik edin ve bir işlemle fark yaratın.",
+       "btn1": "Nasıl yapılır? Daha Fazla Bilgi Al"
+    },
+    "navbar": {
+       "home": "Ana Sayfa",
+       "why": "Neden Bitcoin?",
+       "how": "Nasıl Kullanılır?",
+       "about": "Hakkında"
+    },
+    "why": {
+       "why": "Neden Bitcoin?",
+       "transforming": "Geleceği Dönüştürmek",
+       "offer": "Bitcoin, mali aracıların ihtiyacını ortadan kaldıran, maliyetleri düşüren ve işlemleri hızlandıran küresel ve merkezi olmayan bir ödeme çözümü sunar.",
+       "enable": "Güvenli ve şeffaf işlemleri mümkün kılarak, Bitcoin müşteri güveni kazanmaya ve yeni uluslararası pazarlara erişmeye yardımcı olarak, girişimcilere hem günlük işlemlerde hem de stratejik finansal yönetimde fırsatlar sunabilir.",
+       "list1": "Merkezi olmayan ve şeffaf işlemler",
+       "list2": "Maliyetleri düşürülmüş ve hızlı işlemler",
+       "list3": "İşletmeler için artırılmış verimlilik ve dayanıklılık"
+    },
+    "wallet": {
+       "wallet": "CÜZDANLAR",
+       "wallet2": "Cüzdanlar",
+       "some": "Bazıları",
+       "youcan": "kullanabilirsiniz"
+    },
+    "video": {
+       "title1": "Hemen Bitcoin Kullanmaya Başlayın!",
+       "text1": "BitChange ile Bitcoin dünyasına adım atın! Değişimin gücünü açığa çıkarın. BitChange deneyiminizi devrim niteliğinde hale getirecek."
+    },
+    "article": {
+       "start": "Bitcoin hakkında",
+       "start2": "öğrenmeye hazır mısınız?",
+       "start3": "Bilginizi artırın ve Bitcoin hakkında daha fazla ilginç bilgi okuyun",
+       "start4": "The Bitcoin Knowledge podcast",
+       "start5": "Bitcoin Podcast",
+       "start6": "Bitcoin Magazine"
+    },
+    "how": {
+       "how1": "İŞLEMLERİ GERİ ALMA SÜRECİ",
+       "how2": "GERİ ALDAN SONRA NE YAPABİLİRSİNİZ?",
+       "how3": "Değişiminizi BTC olarak aldınız. Şimdi ne yapmalısınız?",
+       "how4": "Bitcoin'i Kabul Eden İşletmeleri Görmek İçin BTC Haritasını Görebilirsiniz!"
+    },
+    "steps": {
+       "steps1": "ADIMLAR",
+       "steps2": "Nasıl",
+       "steps3": "Çalışır?",
+       "steps4": "Doğru cevap verin",
+       "steps5": "Ürününüzü kasaya götürüp nakit ödeme yaptıktan sonra satıcı size değişiminizi Bitcoin olarak isteyip istemediğinizi soracaktır.",
+       "steps6": "Unutmayın, bu isteğe bağlıdır, ancak evet dışındaki herhangi bir cevap doğru değildir.",
+       "steps7": "Makbuzunuzu alın",
+       "steps8": "Satıcı, Bit Change aracını kullanarak kasap sürecini gerçekleştirecek ve size satın alma detaylarını içeren bir yazılı makbuz ve iki QR kodu verecektir.",
+       "steps9": "Değişiminizi almak için bir Cüzdan kullanın",
+       "steps10": "Değişiminizi Bitcoin olarak almak için bir bitcoin cüzdanı kullanmak zorunludur.",
+       "steps11": "Değişiminizi almak için bitcoin cüzdanınızın tarama fonksiyonunu kullanın"
+    },
+    "gallery": {
+       "gallery1": "Bitcoin'imi Nerede Harcayabilirim?",
+       "gallery2": "Yerel İşletmeler",
+       "gallery3": "Restoranlar"
+    },
+    "about": {
+       "about1": "HAKKIMIZDA"
+    },
+    "cubo": {
+       "cubo1": "CUBO+ Programı",
+       "cubo2": "CUBO+ Eğitim Programı, Salvadorlular tarafından şekillendirilen ve Salvadorlu geliştiricilerin gelecek neslini eğitmeyi amaçlayan bir girişimdir.",
+       "cubo3": "Hazırlık dönemi",
+       "cubo4": "Hazırlık aşaması, nisan ortasından haziran başına kadar olan süreyi kapsayacak şekilde, Bitcoin'in rolünü ve toplumdaki etkisini keşfetmeye odaklanmış çevrim içi oturumları içeriyordu.",
+       "cubo5": "Yerinde bootcamp",
+       "cubo6": "Yerinde bootcamp, Temmuz'un ilk iki haftasında gerçekleşti ve LNP/BP teknolojisinin daha derinlemesine keşfine odaklandı.",
+       "cubo7": "Bitcoin Office + Fulgure Ventures",
+       "cubo8": "Bu, El Salvador için planlanmış bir girişimdi, bitcoin ülkesi. Bitcoin ofisi tarafından Fulgure Ventures ile işbirliği içinde planlanmıştı."
+    },
+    "team": {
+       "team1": "Ekibimiz",
+ 
+ 
+       "team2": "Harika Ekibimizi Tanıyın",
+       "team3": "Ön Yüz Geliştirici",
+       "team4": "Arka Yüz Geliştirici"
+    }
+ }

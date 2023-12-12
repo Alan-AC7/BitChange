@@ -1,0 +1,87 @@
+{
+    "index": {
+       "subtitle1": "Få vekslepenger i Bitcoin!",
+       "text1": "Hver gang du betaler med fiat, vil BitChange la deg få vekslepengene dine i bitcoin. Så, neste gang du handler i en butikk, vil du ha noen satoshi å bruke!",
+       "subtitle2": "Klar til å begynne å bruke BitChange?",
+       "text2": "Boost bedriften din, promot bruken av bitcoin og gjør en forskjell én transaksjon om gangen.",
+       "btn1": "Vet ikke hvordan? Lær mer"
+    },
+    "navbar": {
+       "home": "Hjem",
+       "why": "Hvorfor Bitcoin?",
+       "how": "Hvordan løse inn?",
+       "about": "Om oss"
+    },
+    "why": {
+       "why": "Hvorfor Bitcoin?",
+       "transforming": "Transformering av fremtiden",
+       "offer": "Bitcoin tilbyr en global og desentralisert betalingsløsning som eliminerer behovet for økonomiske mellomledd, reduserer kostnader og akselererer transaksjoner.",
+       "enable": "Ved å muliggjøre sikre og transparente transaksjoner kan Bitcoin bidra til å vinne kundenes tillit og få tilgang til nye internasjonale markeder, og gi muligheter for gründere både i daglige operasjoner og strategisk økonomistyring.",
+       "list1": "Desentraliserte og transparente transaksjoner",
+       "list2": "Reduserte kostnader og raskere transaksjoner",
+       "list3": "Forbedret effektivitet og motstandskraft for bedrifter"
+    },
+    "wallet": {
+       "wallet": "Lommebøker",
+       "wallet2": "Lommebøker",
+       "some": "Noen",
+       "youcan": "du kan bruke"
+    },
+    "video": {
+       "title1": "Begynn å bruke Bitcoin nå!",
+       "text1": "Gå inn i den fantastiske verdenen av bitcoin med BitChange! Lås opp kraften til vekslepenger. BitChange vil revolusjonere opplevelsen din."
+    },
+    "article": {
+       "start": "Klar til å begynne",
+       "start2": "å lære",
+       "start3": "om Bitcoin?",
+       "start4": "Øk kunnskapen din og les mer interessant informasjon om Bitcoin",
+       "start5": "The Bitcoin Knowledge podcast",
+       "start6": "Bitcoin Podcast",
+       "start7": "Bitcoin Magazine"
+    },
+    "how": {
+       "how1": "LØSNINGS-PROSESSEN",
+       "how2": "HVA KAN DU GJØRE ETTER INNLØSNING?",
+       "how3": "Du har fått vekslepenger i BTC. Hva nå?",
+       "how4": "Du kan se BTC-kartet for å se hvilke bedrifter som godtar Bitcoin!"
+    },
+    "steps": {
+       "steps1": "TRINN",
+       "steps2": "Hvordan det",
+       "steps3": "fungerer?",
+       "steps4": "Svar riktig",
+       "steps5": "Etter å ha tatt produktet ditt til kassen og betalt kontant, vil selgeren spørre deg om du vil ha vekslepengene dine i bitcoin.",
+       "steps6": "Husk, det er valgfritt, men ethvert svar annet enn ja er ikke riktig",
+       "steps7": "Få kvitteringen din",
+       "steps8": "Selgeren vil gjøre kasseprosessen ved hjelp av Bit Change-verktøyet og vil gi deg en utskrevet kvittering med detaljene om kjøpet ditt og to QR-koder.",
+       "steps9": "En for å innløse vekslepengene dine, og den andre vil ta deg direkte til denne siden, hvis du trenger mer informasjon",
+       "steps10": "Bruk en lommebok for å innløse vekslepengene dine",
+       "steps11": "Det er obligatorisk å bruke en bitcoin-lommebok for å få vekslepengene dine i bitcoin.",
+       "steps12": "Bruk skannefunksjonen i bitcoin-lommeboken din for å motta vekslepengene dine"
+    },
+    "gallery": {
+       "gallery1": "Hvor kan jeg bruke Bitcoin?",
+       "gallery2": "Lokale bedrifter",
+       "gallery3": "Restauranter"
+    },
+    "about": {
+       "about1": "OM OSS"
+    },
+    "cubo": {
+       "cubo1": "CUBO+ Program",
+       "cubo2": "CUBO+ Educational Program er en initiativ utformet av og for salvadoranere, med mål om å trene den neste generasjonen av salvadoranske utviklere.",
+       "cubo3": "Forberedelsesperiode",
+       "cubo4": "Forberedelsesfasen, som strakte seg fra midten av april til begynnelsen av juni, omfattet nettsesjoner fokusert på å utforske rollen til Bitcoin og dets innflytelse på samfunnet.",
+       "cubo5": "På stedet bootcamp",
+       "cubo6": "Bootcampen på stedet fant sted i de første to ukene i juli og fokuserte på en grundigere utforskning av LNP/BP-teknologien.",
+       "cubo7": "Bitcoin-kontor + Fulgure Ventures",
+       "cubo8": "Dette var en initiativ planlagt for El Salvador, bitcoin-landet. Planlagt av Bitcoin-kontoret i samarbeid med Fulgure Ventures"
+    },
+    "team": {
+       "team1": "Vårt team",
+       "team2": "Møt vårt fantastiske team",
+       "team3": "Front-end-utvikler",
+       "team4": "Bakenden-utvikler"
+    }
+ }

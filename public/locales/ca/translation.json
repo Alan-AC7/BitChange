@@ -1,0 +1,86 @@
+{
+    "index": {
+      "subtitle1": "Rebre el teu canvi en Bitcoin!",
+      "text1": "Cada vegada que paguis amb diners fiat, BitChange et permetrà rebre el teu canvi en bitcoin. Així que, la propera vegada que compres a una botiga, tindràs alguns sats per gastar!",
+      "subtitle2": "Preparat per començar a utilitzar BitChange?",
+      "text2": "Impulsa el teu negoci, promou l'ús de bitcoin i fes la diferència en cada transacció.",
+      "btn1": "No saps com? Aprèn-ne més"
+    },
+    "navbar": {
+      "home": "Inici",
+      "why": "Per què Bitcoin?",
+      "how": "Com redimir?",
+      "about": "Sobre nosaltres"
+    },
+    "why": {
+      "why": "Per què Bitcoin?",
+      "transforming": "Transformant el Futur",
+      "offer": "Bitcoin ofereix una solució de pagament global i descentralitzada que elimina la necessitat d'intermediaris financers, reduint costos i accelerant les transaccions.",
+      "enable": "En permetre transaccions segures i transparents, Bitcoin pot ajudar a guanyar la confiança dels clients i accedir a nous mercats internacionals, proporcionant oportunitats per als empresaris tant en les operacions diàries com en la gestió financera estratègica.",
+      "list1": "Transaccions descentralitzades i transparents",
+      "list2": "Costos reduïts i transaccions més ràpides",
+      "list3": "Eficiència i resiliència millorades per als negocis"
+    },
+    "wallet": {
+      "wallet": "CARTEIRES",
+      "wallet2": "Carteires",
+      "some": "Algunes",
+      "youcan": "pots utilitzar"
+    },
+    "video": {
+      "title1": "Comença a utilitzar Bitcoin ara!",
+      "text1": "Entra en el meravellós món del bitcoin amb BitChange! Desbloqueja el poder del canvi. BitChange revolucionarà la teva experiència."
+    },
+    "article": {
+      "start": "Preparat per començar",
+      "start2": "aprendre",
+      "start3": "sobre Bitcoin?",
+      "start4": "Augmenta el teu coneixement i llegeix més informació interessant sobre Bitcoin",
+      "start5": "El podcast del coneixement de Bitcoin",
+      "start6": "Podcast de Bitcoin",
+      "start7": "Revista Bitcoin"
+    },
+    "how": {
+      "how1": "PROCESSA DE RESCAT",
+      "how2": "QUÈ POTS FER DESPRÉS DEL REEMBORSAMENT?",
+      "how3": "Has rebut el teu canvi en BTC. I ara què?",
+      "how4": "Pots veure el mapa BTC per veure quins negocis accepten Bitcoin!"
+    },
+    "steps": {
+      "steps1": "PASSOS",
+      "steps2": "Com funciona?",
+      "steps3": "Respon correctament",
+      "steps4": "Després de portar el producte a la caixa i pagar en efectiu, el venedor et preguntarà si vols el teu canvi en bitcoin.",
+      "steps5": "Recorda, és opcional, però qualsevol resposta que no sigui sí no és correcta",
+      "steps6": "Aconsegueix el teu rebut",
+      "steps7": "El venedor realitzarà el procés de pagament utilitzant l'eina Bit Change i et donarà un rebut imprès amb els detalls de la teva compra i dos codis QR.",
+      "steps8": "Un per rescatar el teu canvi i l'altre et portarà directament a aquesta pàgina, en cas que necessitis més informació",
+      "steps9": "Utilitza una cartera per rescatar el teu canvi",
+      "steps10": "És obligatori utilitzar una cartera de bitcoin per obtenir el teu canvi en bitcoin.",
+      "steps11": "Utilitza la funció d'escaneig de la teva cartera de bitcoin per rebre el teu canvi"
+    },
+    "gallery": {
+      "gallery1": "On puc gastar els meus bitcoins?",
+      "gallery2": "Negocis locals",
+      "gallery3": "Restaurants"
+    },
+    "about": {
+      "about1": "SOBRE NOSALTRES"
+    },
+    "cubo": {
+      "cubo1": "Programa CUBO+",
+      "cubo2": "El Programa Educatiu CUBO+ és una iniciativa elaborada per i per als salvadorencs, amb l'objectiu de formar la pròxima generació de desenvolupadors salvadorencs.",
+      "cubo3": "Període preparatori",
+      "cubo4": "La fase preparatòria, que va des de mitjan abril fins a principis de juny, va incloure sessions en línia centrades a explorar el paper del Bitcoin i la seva influència a la societat.",
+      "cubo5": "Bootcamp presencial",
+      "cubo6": "El bootcamp presencial va tenir lloc durant les dues primeres setmanes de juliol, centrant-se en una exploració més profunda de la tecnologia LNP/BP.",
+      "cubo7": "Bitcoin Office + Fulgure Ventures",
+      "cubo8": "Aquesta va ser una iniciativa planificada per a El Salvador, el país del bitcoin. Planejada per l'oficina de bitcoin en associació amb Fulgure Ventures"
+    },
+    "team": {
+      "team1": "El nostre equip",
+      "team2": "Coneix el nostre meravellós equip",
+      "team3": "Desenvolupador de front-end",
+      "team4": "Desenvolupador de back-end"
+    }
+  }
